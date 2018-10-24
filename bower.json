@@ -1,0 +1,17 @@
+{
+  "name": "restaurant_css",
+  "homepage": "https://github.com/NTBNgoc/restaurant_css",
+  "authors": [
+    "Ngoc <nguyenngoc.hust.97@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
